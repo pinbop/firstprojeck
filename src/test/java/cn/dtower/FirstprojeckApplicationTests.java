@@ -1,4 +1,4 @@
-package cn.dtower.firstprojeck;
+package cn.dtower;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

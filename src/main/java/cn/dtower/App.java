@@ -1,12 +1,12 @@
-package cn.dtower.firstprojeck;
+package cn.dtower;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FirstprojeckApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstprojeckApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 }
